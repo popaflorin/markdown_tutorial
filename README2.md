@@ -16,8 +16,8 @@ Column A | Column B | Column C | Another colomn
 
 
 
-Country or countries visited | Date of departure | Date of return | Number of days | Total for the year | 
------------------------------|-------------------|----------------|----------------|--|-
+Country or countries visited | Date of departure | Date of return | Number of days | Total for the year |
+-----------------------------|-------------------|----------------|:----------------:|:--:|
 Spain | 15/6/2011 | 22/6/2011 | 6 | 16 | 2011
 Romania | 16/12/2011 | 27/12/2011 | 10 |  | 
 France | 16/4/2012 | 18/4/2012 | 1 | 11 | 2012
@@ -49,3 +49,4 @@ Israel |  |  |  |  |
  |  |  |  |  | 
  |  |  |  |  | 
 Total |  |  | 238 |  | 
+
